@@ -60,7 +60,7 @@ Add a new shortcut:
 
 Name: Launch CS2 Stretched
 
-Command: `/home/YOUR_USERNAME/.local/bin/launch-cs2-stretched.sh`
+Command: `<PATH_TO_SCRIPT>/launch-cs2-stretched.sh`
 
 Assign any preferred hotkey.
 
