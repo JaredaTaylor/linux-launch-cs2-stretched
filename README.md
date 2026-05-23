@@ -48,7 +48,9 @@ This will:
 
 ## Suggested setup
 Open keyboard settings:
+```
 cinnamon-settings keyboard
+```
 
 Go to:
 
@@ -56,10 +58,9 @@ Shortcuts → Custom Shortcuts
 
 Add a new shortcut:
 
-Name
-Launch CS2 Stretched
-Command
-/home/YOUR_USERNAME/.local/bin/launch-cs2-stretched.sh
+Name: Launch CS2 Stretched
+
+Command: `/home/YOUR_USERNAME/.local/bin/launch-cs2-stretched.sh`
 
 Assign any preferred hotkey.
 
